@@ -1,6 +1,6 @@
 # todo
 
-[Ссылка на проект](https://your-website.github.io/todo/)
+[Ссылка на проект](https://your-website.github.io/todo/index)
 
 ## Project setup
 ```
